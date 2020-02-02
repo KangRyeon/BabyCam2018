@@ -50,3 +50,8 @@
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="700">
 </div>
+
+
+
+# 개발 과정은 블로그에 포스팅 하였습니다.
+[**가정용 BabyCam**](https://blog.naver.com/rhrkdfus/221410343689)
