@@ -49,9 +49,9 @@
     4. CLEAR 화면을 누르면 아이가 울고 있다는 표시를 없애줍니다. 
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="700">
-</div>
+</div>   
 
 
 
-##  개발 과정은 블로그에 포스팅 하였습니다.
+#  개발 과정은 블로그에 포스팅 하였습니다.
 [**가정용 BabyCam**](https://blog.naver.com/rhrkdfus/221410343689)
