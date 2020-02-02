@@ -32,6 +32,6 @@
         - 아이의 상태를 특정하기 위해 임의로 아래 정보를 기준으로 검출
     ![babycam_preview_1](./image/babycam_preview_1.jpg)
 <div align="center">
-    <img src="./image/babycam_preview_1.jpg", width="600">
+    <img src="./image/babycam_preview_1.jpg", width="500">
 </div>
 # 구현 화면
