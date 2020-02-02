@@ -49,6 +49,7 @@
     4. CLEAR 화면을 누르면 아이가 울고 있다는 표시를 없애줍니다. 
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="700">
+    <img src="./image/babycam_preview_3.mp4", width="700">
 </div>   
 
 
