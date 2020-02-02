@@ -47,13 +47,21 @@
     3. 현재 실행되고 있는 스트리밍 화면이 나오고, 서버에서 스트리밍 중인 화면에서 아이가 울고
        있는 상태라면 안드로이드로 신호를 보내 아이가 울고 있다는 화면을 보여줍니다.
     4. CLEAR 화면을 누르면 아이가 울고 있다는 표시를 없애줍니다. 
+    
+#### 전체 실행화면
 <div align="center">
-    <img src="./image/babycam_preview_2.jpg", width="700">
-    <img src="./image/babycam_preview_3.jpg", width="700">
-    <img src="./image/babycam_preview_4.jpg", width="700">
+    <img src="./image/babycam_preview_2.jpg", width="600">
 </div>   
 
+#### 눈, 입 검출 화면
+<div align="center">
+    <img src="./image/babycam_preview_2.jpg", width="400">
+</div>  
 
+#### 아기 상태 검출 
+<div align="center">
+    <img src="./image/babycam_preview_2.jpg", width="400">
+</div>  
 
 #  개발 과정은 아래의 블로그에 포스팅 하였습니다.
 [**가정용 BabyCam**](https://blog.naver.com/rhrkdfus/221410343689)
