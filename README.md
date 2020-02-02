@@ -55,12 +55,12 @@
 
 ### 눈, 입 검출 화면
 <div align="center">
-    <img src="./image/babycam_preview_2.jpg", width="400">
+    <img src="./image/babycam_preview_3.jpg", width="400">
 </div>  
 
 ### 아기 상태 검출 
 <div align="center">
-    <img src="./image/babycam_preview_2.jpg", width="400">
+    <img src="./image/babycam_preview_4.jpg", width="400">
 </div>  
 
 #  개발 과정은 아래의 블로그에 포스팅 하였습니다.
