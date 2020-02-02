@@ -48,17 +48,17 @@
        있는 상태라면 안드로이드로 신호를 보내 아이가 울고 있다는 화면을 보여줍니다.
     4. CLEAR 화면을 누르면 아이가 울고 있다는 표시를 없애줍니다. 
     
-#### 전체 실행화면
+### 전체 실행화면
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="600">
 </div>   
 
-#### 눈, 입 검출 화면
+### 눈, 입 검출 화면
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="400">
 </div>  
 
-#### 아기 상태 검출 
+### 아기 상태 검출 
 <div align="center">
     <img src="./image/babycam_preview_2.jpg", width="400">
 </div>  
